@@ -2,7 +2,7 @@ package day3_conditional_loops.conditional_loops_intermidiate;
 
 import java.util.Scanner;
 
-public class J14_ArmstrongNumberInJava {
+public class P14_ArmstrongNumberInJava {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the Number");
