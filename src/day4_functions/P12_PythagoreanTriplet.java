@@ -2,8 +2,6 @@ package day4_functions;
 
 import java.util.Scanner;
 
-import javax.swing.text.html.HTMLDocument.RunElement;
-
 public class P12_PythagoreanTriplet {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -11,6 +9,7 @@ public class P12_PythagoreanTriplet {
         int n1 = in.nextInt();
         int n2 = in.nextInt();
         int n3 = in.nextInt();
+        System.out.println(isPythagoreanTriplet(n1, n2, n3) ? "Pythagorean Triplet" : "Not Pythagorean Triplet");
         in.close();
     }
 
@@ -22,9 +21,11 @@ public class P12_PythagoreanTriplet {
             mid = n1;
         else if ((max == n1 && min == n3) || (max == n3 && min == n1))
             mid = n2;
-        else
+        else if ((max == n1 && min == n2) || (max == n2 && min == n1))
             mid = n3;
-        return true;
-    
+        max = max * max;
+        min = min * min;
+        mid = mid * mid;
+        return max == min + mid;
     }
 }
