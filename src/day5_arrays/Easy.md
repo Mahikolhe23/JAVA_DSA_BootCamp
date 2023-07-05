@@ -14,8 +14,8 @@ P12 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest
 P13 - [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)</br>
 P14 - [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)</br>
 P15 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)</br>
-P16 - []()</br>
-P17 - []()</br>
-P18 - []()</br>
-P19 - []()</br>
+P16 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)</br>
+P17 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)</br>
+P18 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)</br>
+P19 - [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)</br>
 P20 - []()</br>
