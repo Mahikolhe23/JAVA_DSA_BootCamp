@@ -18,4 +18,13 @@ P16 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/fi
 P17 - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)</br>
 P18 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)</br>
 P19 - [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)</br>
+P20 - [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)</br>
+P21 - [Two Sum](https://leetcode.com/problems/two-sum/)</br>
+P22 - [Find N Unique Integers Sum up to Zero]()</br>
+P23 - [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)</br>
+P24 - []()</br>
+P25 - []()</br>
+P26 - []()</br>
+P27 - []()</br>
+P28 - []()</br>
 P20 - []()</br>
