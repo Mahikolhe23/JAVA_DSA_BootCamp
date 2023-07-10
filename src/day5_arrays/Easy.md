@@ -22,9 +22,20 @@ P20 - [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.co
 P21 - [Two Sum](https://leetcode.com/problems/two-sum/)</br>
 P22 - [Find N Unique Integers Sum up to Zero]()</br>
 P23 - [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)</br>
-P24 - []()</br>
-P25 - []()</br>
-P26 - []()</br>
-P27 - []()</br>
-P28 - []()</br>
-P20 - []()</br>
+P24 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)</br>
+P25 - [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)</br>
+P26 - [Plus One](https://leetcode.com/problems/plus-one/)</br>
+P27 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)</br>
+P28 - [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)</br>
+
+## Medium
+P1 - []()
+P2 - []()
+P3 - []()
+P4 - []()
+P5 - []()
+P6 - []()
+P7 - []()
+P8 - []()
+P9 - []()
+P10 - []()
