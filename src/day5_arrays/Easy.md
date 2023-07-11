@@ -1,13 +1,13 @@
 ## Easy
-P1 -  [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)</br>
-P2 -  [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)</br>
-P3 -  [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)</br>
-P4 -  [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)</br>
-P5 -  [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)</br>
-P6 -  [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)</br>
-P7 -  [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)</br>
-P8 -  [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)</br>
-P9 -  [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)</br>
+P01 - [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)</br>
+P02 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)</br>
+P03 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)</br>
+P04 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)</br>
+P05 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)</br>
+P06 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)</br>
+P07 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)</br>
+P08 - [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)</br>
+P09 - [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)</br>
 P10 - [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)</br>
 P11 - [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)</br>
 P12 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)</br>
@@ -29,13 +29,13 @@ P27 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove
 P28 - [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)</br>
 
 ## Medium
-P1 - []()
-P2 - []()
-P3 - []()
-P4 - []()
-P5 - []()
-P6 - []()
-P7 - []()
-P8 - []()
-P9 - []()
-P10 - []()
+P01 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)</br>
+P02 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)</br>
+P03 - [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) - Pending </br>
+P04 - []()</br>
+P05 - []()</br>
+P06 - []()</br>
+P07 - []()</br>
+P08 - []()</br>
+P09 - []()</br>
+P10 - []()</br>
